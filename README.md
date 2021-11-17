@@ -1,2 +1,2 @@
-# wma
-Warehouse Management App
+# Warehouse Management App
+Aplication created with PHP & AngularJS
